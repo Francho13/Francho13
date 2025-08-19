@@ -71,7 +71,7 @@ personal, and game jam projects.
 
   <h2 align="rigth"> Github Stats 📈 </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=Francho13&&show_icons=true&count_private=true&theme=github_dark"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Francho13&theme=blueberry_duo"/> 
- <div align="center"> 
+ <div align="rigth"> 
      <a href="">
       <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francho13&theme=react&line_height=40&hide=css"/>
     </a>
