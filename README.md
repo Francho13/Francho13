@@ -66,14 +66,18 @@ personal, and game jam projects.
   <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
 </a>
 
-<h2>Github stats:</h2> 
 
-  <div align="center"> 
+
+
+  <h2 align="rigth"> Github Stats 📈 </h2>
+<img src="https://github-readme-stats.vercel.app/api?username=Francho13&&show_icons=true&count_private=true&theme=github_dark"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Francho13&theme=blueberry_duo"/> 
+ <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Francho13&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francho13&theme=react&line_height=40&hide=css"/>
     </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francho13&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
+
+
+
+
+
 
