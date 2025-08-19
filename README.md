@@ -11,15 +11,45 @@ personal, and game jam projects.
 <p align="rigth">- 👯 I’m looking forward to collaborate on open source projects.
 <p align="rigth">- ✔ Ask me about for Game Desing, Programming and Unity, I am happy to help!😉<br>
 <p align="rigth">- Outside tech: 🎮 I love play videogames , 🎵 listen to music, 📷​ Photography/Edition and 📖 I read book of personal development, History and Videogames.
-<p align="rigth">- 📫 Contact: <strong>franemma.lozano@gmail.com</strong></p> 
+<p align="rigth">- 📫 Mail Contact: <strong>franemma.lozano@gmail.com</strong></p> 
 <p align="Rigth">
-  🔗 Conectemos:
+  🔗 Let's connect:
   <br/>
   <a href="www.linkedin.com/in/francisco-lozano-45922227b" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
+## My Skills Include
 
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white">
+
+<h4> Libraries </h4>
+<span> 
+ 
+ <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl">
+ 
+<h4> Software and Tools </h4>
+
+<p align="rigth">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,css,html,unity,godot,vscode,visualstudio&perline=15" />
+  </a>
+
+## Addiotional Skills 
+
+<h4> Another Tools </h4>
+
+<p align="rigth">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,pr,ps,notion&perline=15" />
+  </a>
 
 ## Check out my Social Media
 
@@ -37,4 +67,13 @@ personal, and game jam projects.
 </a>
 
 <h2>Github stats:</h2> 
+
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Francho13&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francho13&theme=react&line_height=40&hide=css"/>
+    </a>
+</div
 
